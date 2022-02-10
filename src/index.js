@@ -2,6 +2,7 @@
 
 import React from "react";
 import reactDom from "react-dom";
+import React, { useState } from "react";
 //link css to index.js
 import "./index.css";
 //methods imports
